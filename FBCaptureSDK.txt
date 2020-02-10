@@ -1,0 +1,14 @@
+[ 2019-12-18 13:34:30 ][INFO] Capture SDK Version: : 2.0
+[ 2019-12-18 13:34:30 ][INFO] Graphics Card Info: : NVIDIA GeForce RTX 2080
+[ 2019-12-18 13:34:30 ][INFO] Graphics Card Info: : Microsoft Basic Render Driver
+[ 2019-12-18 13:34:30 ][INFO] Output folder already existed
+[ 2019-12-18 13:34:30 ][INFO] Passed capture capability tests. Ready to start encoding
+[ 2019-12-18 13:34:30 ][INFO] Audio device name: : Stereo Mix (Realtek(R) Audio)
+[ 2019-12-18 13:34:30 ][INFO] Audio device name: : Headset Microphone (Rift S)
+[ 2019-12-18 13:34:30 ][INFO] Can't find VR audio devices. Just use default audio input and output
+[ 2019-12-18 13:34:30 ][INFO] Start audio capture
+[ 2019-12-18 13:34:30 ][INFO] No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2019-12-18 13:35:54 ][INFO] Released wave file resources
+[ 2019-12-18 13:35:54 ][INFO] Start audio transcoding
+[ 2019-12-18 13:35:55 ][INFO] Released audio capture devices
+[ 2019-12-18 13:36:25 ][INFO] Released audio capture devices
